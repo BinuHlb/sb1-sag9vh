@@ -1,0 +1,1 @@
+export { useAuth } from "@/lib/store/auth-store";
